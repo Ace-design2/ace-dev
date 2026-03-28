@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ace</h1>
-<h3 align="center">🚀 Future Software Engineer | UI/UX Designer | Builder</h3>
+<h1>Hi 👋, I'm Segun</h1>
+<h3>🚀 Future Software Engineer | UI/UX Designer | Builder</h3>
 
 ---
 
